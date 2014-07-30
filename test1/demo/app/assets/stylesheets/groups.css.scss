@@ -1,0 +1,21 @@
+// Place all the styles related to the groups controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@import "bootstrap";
+body {
+  padding-top: 60px;
+}
+.table {
+  color:#3030f5;
+  font-weight:bold;
+}
+.group {
+	  text-align: center;
+}
+
+.span12 {
+	font-weight:bold;
+	  text-align: center;
+}
+
